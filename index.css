@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1094922834/vector/binary-background.jpg?s=612x612&w=0&k=20&c=OEGamSEXekm5Q0dRGa1U4DtzgIS_Zq1cCjhjM3D0EWI=);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.seach {
+    text-align: left;
+ }
+.audio{
+    text-align: right;
+}
+.select {
+    text-align: right;
+}
+.orderlist {
+    margin-bottom: 100px;
+    width: 40%;
+    float: right;
+}
+.discriptivelist {
+    width: 500px;
+    float: left;    
+}
+.lis{
+    text-align: left;
+}
+.container{
+    display: inline-block;
+}   
+.table {
+    width: 50%;
+    margin: 0 auto;
+}
+.image {
+    width: 500px;
+    height: 30 0px;
+}
+.iframe {
+    width: 500px;
+    height: 250px;
+}
